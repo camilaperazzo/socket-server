@@ -1,0 +1,119 @@
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\refint\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\refint\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 1\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\refint\SocketServer.dll
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Camila\OneDrive\Documentos\SocketServer - version 2\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Midiavox\Downloads\SocketServer - version 2.1\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Chastie\Downloads\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Chastie\Videos\SocketServer - version 2.2\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\SocketServer.exe
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\SocketServer.deps.json
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\SocketServer.runtimeconfig.json
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\bin\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.socketserver.resources
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.GenerateResource.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.AssemblyInfo.cs
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\ref\SocketServer.dll
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.pdb
+C:\Users\Midiavox\Downloads\SocketServer - version 3.0\SocketServer\obj\Debug\net6.0-windows\SocketServer.genruntimeconfig.cache
